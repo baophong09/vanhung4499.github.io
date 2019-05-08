@@ -10,7 +10,7 @@ Hiện tại mình đang là sinh viên và coder, lúc rảnh mình cài dịch
 
 ## Qui trình cài
 1. Tạo report thông tin cấu hình máy và gửi mình
-2. Tao đổi về việc cài đặt và giá cả
+2. Trao đổi về việc cài đặt và giá cả
 3. Tiến hành cài đặt
 4. Bàn giao máy
 
